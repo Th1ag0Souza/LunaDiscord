@@ -5,7 +5,7 @@ import asyncio
 import os
 import config
 
-contador = 0
+
 
 TOKEN = config.token
 
